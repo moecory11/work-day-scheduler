@@ -6,6 +6,7 @@ To access the HTML, CSS and JS you can go to the GitHub repository for this proj
 https://github.com/moecory11/work-day-scheduler
 ## Usage
 When using this day planner you have acces to the dae and time displayed in the header of the planner. The day is layed out for you to add and delete events between 8am and 5pm. Also, the color coding of each hour will reflect past, current and future time based on the date/time feature on the page. At this time the color coding is not operational, but will be corrected.
+![Website with navigation bar](https://github.com/moecory11/work-day-scheduler/blob/main/images/Day%20Planner%20Screenshot.png?raw=true)
 
 ## Credits
 While creating this project my main source of references and resources came from the examples and activities in my daily class content.
