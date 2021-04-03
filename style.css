@@ -84,3 +84,7 @@ table {
   background-color:#10b1cc;
   border-right: #10b1cc;
 }
+.sched {
+  width: 100%;
+  border: none;
+}
